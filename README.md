@@ -50,9 +50,9 @@ Currently focused on:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🍏 Sibeman PWA Platform
+###  Sibeman PWA Platform
 
 A modern Progressive Web App platform focused on delivering app-like experiences on the web.
 
@@ -85,17 +85,3 @@ Building responsive and scalable frontend applications with:
 
 ---
 
-## 📈 My Development Journey
-
-```text
-HTML / CSS
-     ↓
-JavaScript
-     ↓
-React
-     ↓
-Next.js + TypeScript
-     ↓
-Advanced Frontend Architecture
-     ↓
-Building scalable applications 🚀
