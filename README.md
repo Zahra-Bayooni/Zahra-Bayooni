@@ -85,29 +85,6 @@ Building responsive and scalable frontend applications with:
 
 ---
 
-## 📊 GitHub Stats
-
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zahra-Bayooni&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra-Bayooni&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-## 🔥 Contribution Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Zahra-Bayooni&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 📈 My Development Journey
 
 ```text
