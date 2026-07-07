@@ -90,9 +90,9 @@ Building responsive and scalable frontend applications with:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zahra-Bayuni&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Zahra-Bayooni&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra-Bayuni&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra-Bayooni&layout=compact&theme=tokyonight" />
 
 </div>
 
