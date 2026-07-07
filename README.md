@@ -90,9 +90,9 @@ Building responsive and scalable frontend applications with:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zahrabayuni&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Zahra-Bayooni&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahrabayuni&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra-Bayooni&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -102,7 +102,7 @@ Building responsive and scalable frontend applications with:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=zahrabayuni&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Zahra-Bayooni&theme=tokyonight&hide_border=true" />
 
 </div>
 
