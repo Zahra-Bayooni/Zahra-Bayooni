@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Zahra 👋
 
-<!--
-**Zahra-Bayooni/Zahra-Bayooni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer passionate about building modern web applications.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
+- Git
+- REST API
+
+## Currently
+
+- Frontend Developer
+- Learning advanced React patterns
+- Building modern PWAs
+
+## Contact
+
+Email: zahrabayuni78@email.com
+LinkedIn: ...
